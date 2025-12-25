@@ -1,6 +1,6 @@
-# Ola Ride Analytics Dashboard (Power BI)
+# Ola Ride Analytics Dashboard (Power BI & SQL)
 
-This project analyzes Ola ride data and builds an interactive Power BI dashboard to help understand demand, revenue and driver performance.
+This project builds end-to-end analysis of Ola ride data using SQL for exploration and interactive Microsoft Power BI dashboard to help understand demand, revenue and driver performance.
 
 ## Data
 - Source: Ola rides dataset (synthetic / practice data).
@@ -24,4 +24,5 @@ This project analyzes Ola ride data and builds an interactive Power BI dashboard
 ## Key Insights
 - City A and City B generate over 60% of total revenue.
 - Evening time slots show the highest ride volume across all cities.
+
 - Cancellation rates are highest in XYZ conditions (e.g., peak hours / specific city).
