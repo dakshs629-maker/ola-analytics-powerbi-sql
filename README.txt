@@ -1,4 +1,5 @@
 Ola Ride Analytics Dashboard 
+
 End‑to‑end data analytics project simulating a ride‑hailing company in Bengaluru, using a synthetic dataset of 100k+ rides for one month to analyze demand, revenue, cancellations, and service quality, similar to what an entry-level data analyst would do in a mobility company.
 Note: Data is fully synthetic and generated via LLM prompts for learning; this project is not affiliated with Ola or ANI Technologies Pvt. Ltd.
 
@@ -48,6 +49,7 @@ Each record represents one ride with: date/time, booking and customer IDs, booki
 ​#Open Ola Data Analyst.pbix in Power BI and refresh the data source.
 ​#Open ola_python_analysis.ipynb to explore the pandas/seaborn analysis.
 ​
+
 
 
 
